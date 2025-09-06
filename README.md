@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Maatt0s
-- 👀 I’m interested in games, graphic design and art
+- 👀 I’m interested in games, graphic design and music
 - 🌱 I’m currently learning IT
 - 💞️ I’m looking to collaborate on my school projects or design anything 
 - 📫 How to reach me by my email : juullia.mattos@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I like to travel
+- ⚡ Fun fact: Im learning how to sing
 
 <!---
 Maatt0s/Maatt0s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
